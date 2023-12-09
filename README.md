@@ -4,5 +4,5 @@
   
     Just type npm i(install) in your terminal.
 
-    For launching, use the **npm run start** command.  
+    For launching, use the npm run start command.  
 </pre>
